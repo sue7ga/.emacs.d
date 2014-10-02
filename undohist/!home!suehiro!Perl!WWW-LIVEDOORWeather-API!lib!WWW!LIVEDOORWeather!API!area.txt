@@ -1,0 +1,2 @@
+
+((digest . "ab3bae23728a5f6c3119b48170038bfa") (undo-list nil (1690 . 1691) 270 nil (nil rear-nonsticky nil 1689 . 1690) (nil fontified nil 1 . 1690) (1 . 1690) (t . -1)))

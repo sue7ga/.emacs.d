@@ -1,0 +1,128 @@
+ls
+prove -lvr t
+'TotalLength' => '267.5',
+prove -lvr t
+ls
+prove -lvr t
+ls
+prove -lvr t
+ls          },
+prove -lvr t
+ls
+prove -lvr t
+ok 5 - Sectionls
+minil test
+ls
+minil release
+ls
+rm -r 267.5,
+ls
+minil release
+cd ..
+ls
+ls
+cd Kosoku
+ls
+ls
+carton exec perl -Ilib script/metoro-server
+carton exec perl -Ilib script/kosoku-server
+carton exec perl -Ilib script/kosoku-server
+carton exec perl -Ilib script/kosoku-server
+carton exec perl -Ilib script/kosoku-server
+carton exec perl -Ilib script/kosoku-server
+carton exec perl -Ilib script/kosoku-server
+carton exec perl -Ilib script/kosoku-server
+carton exec perl -Ilib script/kosoku-server
+ls
+ls
+prove -lvr t
+ls
+prove -lvr t
+ok 1ls
+ls
+prove -lvr t
+Undefined subroutine &JSON::decodec_json called at /home/suehiro/WWW-Metoro-API/lib/WWW/Metoro/API.pm line 29.ls
+prove -lvr t
+Undefined subroutine &JSON::decodlsed_json called at /home/suehiro/WWW-Metoro-API/lib/WWW/Metoro/API.pm line 29.
+prove -lvr t
+ls  'odpt:fromStation' => 'odpt.Station:TokyoMetro.Hibiya.NakaMeguro',
+prove -lvr t
+'odpt:startingStation' => 'odpt.Station:lsTokyoMetro.Marunouchi.Ikebukuro',
+prove -lvr t
+ls
+prove -lvr t
+'owl:sameAs' => 'odpt.RailwayFare:TokyoMetro.Marunouchi.Tokyo.TokyoMetro.Namboku.TamlseikeSanno',
+prove -lvr t
+ls                                     'odpt:toStation' => 'odpt.Station:TokyoMetro.Chiyoda.KokkaiGijidomae',
+ls
+cd ..
+ls
+cd Metoro
+ls
+prove -lvr t
+cd lib
+ls
+cd Metoro
+ls
+mkdir Model
+ls
+cd Model/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+ls                                       'odpt:station' => 'odpt.Station:TokyoMetro.MarunouchiBranch.Honancho'
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+ls
+cd Web
+cd lib
+ls
+cd Metoro/
+ls
+mkdir C
+ls
+cd C
+ls
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+carton exec -- plackup -R ./lib -Ilib script/metoro-server
+s
+ls
+ls
+cd ../../..
+ls
+cd ..
+ls
+cd Mojo_Metro
+ls
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 
+morbo metro.pl 

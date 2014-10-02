@@ -1,0 +1,2 @@
+
+((digest . "b360380e68660053b421dd3e140def96") (undo-list nil (18 . 19) (t 21516 . 14455) nil (47 . 48) nil (46 . 47) nil (42 . 46) nil (#("p" 0 1 (fontified t)) . -42) nil (41 . 43) nil (#("p" 0 1 (fontified t)) . -41) nil (#("u" 0 1 (fontified t)) . -42) nil (38 . 43) nil (25 . 38) (#("MyApp" 0 5 (fontified nil)) . -25) ((marker . 1) . -5) ((marker . 1) . -5) ((marker . 20) . -5) ((marker . 20) . -5) nil (19 . 30) nil (18 . 19) nil (5 . 18) (#("MyApp" 0 5 (fontified nil face font-lock-function-name-face)) . -5) nil (1 . 10) (t . -1)))

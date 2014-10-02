@@ -1,0 +1,7 @@
+alias lsnil ls $*
+alias Wide ls $*
+alias ok $*
+alias s ls $*
+alias carton carton $*
+alias malformed ls $*
+alias nil ls $*

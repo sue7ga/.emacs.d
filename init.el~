@@ -4,6 +4,7 @@
 (set mozc-candidate-style 'echo-area)
 (prefer-coding-system 'utf-8)
 (setq default-input-method "japanese-mozc")
+
 ;;load-pathを追加する関数を定義
 (defun add-to-load-path (&rest paths)
   (let (path)
@@ -12,6 +13,7 @@
         (add-to-list 'load-path default-directory)
         (if (fboundp 'normal-top-level-add-subdirs-to-load-path)
             (normal-top-level-add-subdirs-to-load-path))))))
+
 ;;elispとconfディレクトリをサブディレクトリごとload-pathに追加
 (add-to-load-path "elisp" "conf")
 
@@ -19,14 +21,10 @@
    (setq auto-install-directory "~/.emacs.d/elisp/")
    (auto-install-update-emacswiki-package-name t)
    (auto-install-compatibility-setup))
-(when (require 'redo+ nil t)
-  ;; global-map
-   (global-set-key (kbd "C-'" 'redo))
 
 ;; マウスポインタの色を設定します。
 (add-to-list 'default-frame-alist '(mouse-color . "green"))
-;; バックアップファイルを作らないようにする
-(setq make-backup-files nil)
+
 ;; 背景を透過さるせる
 (set-frame-parameter nil 'alpha 100)
 ;; 括弧の対応関係をハイライト表示
@@ -43,21 +41,84 @@
 (set-frame-parameter nil 'fullscreen 'fullboth)
 ;; 行数を表示する
 (global-linum-mode t)
-;; 文字の色を設定します。
-(add-to-list 'default-frame-alist '(foreground-color . "black"))
-;; 背景色を設定します。
-(add-to-list 'default-frame-alist '(background-color . "gray"))
 ;; カーソルの色を設定します。
 (add-to-list 'default-frame-alist '(cursor-color . "blue"))
 ;; 選択中のリージョンの色を設定します。
-(set-face-background 'region "green")
+(set-face-background 'region "magenta")
+
+;;カラーテーマ選択-CALM FOREST選択中
+(when (require 'color-theme nil t)
+  (color-theme-initialize)
+  (color-theme-calm-forest))
+
+;;RICTY フォント設定
+(add-to-list 'default-frame-alist '(font . "ricty-13.5"))
+
+;;カーソル行をハイライト
+(global-hl-line-mode t)
+
+;;補完
+(when (require 'auto-complete-config nil t)
+  (add-to-list 'ac-dictionary-directories
+    "~/.emacs.d/elisp/ac-dict")
+  (define-key ac-mode-map (kbd "M-TAB") 'auto-complete)
+  (ac-config-default))
+
+;;検索moccur
+(when (require 'color-moccur nil t)
+  (define-key global-map (kbd "M-o") 'occur-by-moccur)
+  (setq moccur-split-word t) 
+  (add-to-list 'dmoccur-exclusion-mask "\\.DS_Store")
+  (add-to-list 'dmoccur-exclusion-mask "^#.+#$")
+  (when (and (executable-find "cmigemo") 
+             (require 'migemo nil t))
+  (setq moccur-use-migemo t)))
+
+;;moccurの編集
+(require 'moccur-edit nil t)
+
+;;moccur-edit-finish-editと同時にファイルを保存
+(defadvice moccur-edit-change-file
+  (after save-after-moccur-edit-buffer activate)
+  (save-buffer))
+
+;;undo-tree
 (when (require 'undo-tree nil t)
- (global-undo-tree-mode))
-;;font
-;;(add-to-list 'default-frame-alist '(font . "ricty-13.5"))
-;;server starts
-(server-start)
-;;path
-;;(setq load-path (cons "~/.emacs.d/site-lisp/" load-path))
+   (global-undo-tree-mode))
 
 
+;;perl-modeをcperl-modeのエイリアスにする
+(defalias 'perl-mode 'cperl-mode)
+
+
+;;perl-completionの設定
+(defun perl-completion-hook ()
+  (when (require 'perl-completion nil t)
+    (perl-completion-mode t)
+    (when (require 'auto-complete nil t)
+      (auto-complete-mod t)
+      (make-variable-buffer-lacal 'ac-sources))
+      (setq ac-sources
+             '(ac-source-perl-completion)))))
+(add-hook 'cperl-mode-hook 'perl-completion-hook)
+
+
+
+;;括弧の自動挿入
+
+(require 'ruby-electric nil t)
+(when (require 'ruby-block nil t)
+   (setq ruby-block-highlight-toggle t))
+(autoload 'run-ruby "inf-ruby"
+   "Run an inferior Ruby process")
+(autoload 'inf-ruby-keys "inf-ruby"
+   "Set local key defs for inf-ruby in ruby-mode")
+
+;;ruby-mode-hook用の関数を定義
+
+(defun ruby-mode-hooks ()
+   (inf-ruby-keys)
+   (ruby-electric-mode t)
+   (ruby-block-mode t))
+;;ruby-mode-hookに追加
+(add-hook 'ruby-mode-hook 'ruby-mode-hooks)

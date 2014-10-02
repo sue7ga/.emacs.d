@@ -1,0 +1,23 @@
+
+((digest . "8d57adc06ef1416b6b82d0c93fe42270") (undo-list (1 . 123) ("alias nil ls $*
+alias malformed ls $*
+alias carton carton $*
+alias s ls $*
+alias ok $*
+alias Wide ls $*
+" . 1) (t 21502 . 2703) (1 . 105) ("alias Wide ls $*
+alias ok $*
+alias s ls $*
+alias carton carton $*
+alias malformed ls $*
+" . 1) (t 21500 . 42260) (1 . 89) ("alias malformed ls $*
+alias carton carton $*
+alias s ls $*
+alias ok $*
+" . 1) (t 21497 . 54409) (1 . 72) ("alias ok  $*
+alias s ls $*
+alias carton carton $*
+" . 1) (t 21477 . 14294) (1 . 51) ("alias carton carton $*
+alias s ls $*
+" . 1) (t 21397 . 39590) (1 . 38) ("alias s ls $*
+" . 1) (t 21303 . 28884) (1 . 15) (t . -1)))

@@ -1,0 +1,2 @@
+
+((digest . "e6af1232a40f5864825275fc336d4d94") (undo-list nil (60 . 62) nil (";" . -60) nil (60 . 61) nil (39 . 40) nil (30 . 38) nil (#("u" 0 1 (face font-lock-keyword-face)) . -30) nil (#("s" 0 1 (face font-lock-keyword-face)) . -31) nil (#("e" 0 1 (face font-lock-keyword-face)) . -32) nil (nil rear-nonsticky nil 53 . 54) (nil fontified t 34 . 54) (nil fontified t 33 . 34) (nil fontified t 30 . 33) (30 . 54) nil (30 . 31) (t 21507 . 11371)))

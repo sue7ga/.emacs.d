@@ -1,0 +1,178 @@
+
+((digest . "5420f1adbfbc363cec96a70446e6db6b") (undo-list nil (108 . 112) (t 21514 . 27356) nil (129 . 130) (t 21514 . 27347) nil (110 . 129) nil (110 . 111) nil (#("?" 0 1 (face font-lock-string-face)) . -110) nil (109 . 111) nil (#("m" 0 1 (face font-lock-string-face)) . -109) nil (#("e" 0 1 (face font-lock-string-face)) . -110) nil (#("m" 0 1 (face font-lock-string-face)) . -111) nil (#("o" 0 1 (face font-lock-string-face)) . -112) (t 21514 . 27330) nil (#("n" 0 1 (face font-lock-string-face)) . -100) nil (#("a" 0 1 (face font-lock-string-face)) . -101) nil (#("v" 0 1 (face font-lock-string-face)) . -102) nil (#("b" 0 1 (face font-lock-string-face)) . -103) nil (#("a" 0 1 (face font-lock-string-face)) . -104) nil (#("r" 0 1 (face font-lock-string-face)) . -105) nil (#("-" 0 1 (face font-lock-string-face)) . -106) nil (#("b" 0 1 (face font-lock-string-face)) . -107) nil (#("r" 0 1 (face font-lock-string-face)) . -108) nil (#("a" 0 1 (face font-lock-string-face)) . -109) nil (#("n" 0 1 (face font-lock-string-face)) . -110) nil (#("d" 0 1 (face font-lock-string-face)) . -111) (t 21514 . 27294) nil (155 . 160) nil ("<" . -151) nil ("/" . -152) nil ("b" . -153) nil ("r" . -154) nil (">" . -155) (t 21514 . 27289) nil (156 . 160) nil ("Y" . -127) nil ("a" . -128) nil ("h" . -129) nil ("o" . -130) nil ("o" . -131) nil ("<" . -132) nil ("/" . -133) nil (#("a" 0 1 (face font-lock-function-name-face)) . -134) nil (">" . -135) (t 21514 . 27284) nil (nil fontified t 135 . 136) (nil fontified t 134 . 135) (nil fontified t 126 . 134) (nil fontified t 119 . 126) (nil fontified t 118 . 119) (nil fontified t 114 . 118) (nil fontified t 113 . 114) (nil fontified t 99 . 113) (nil fontified t 98 . 99) (nil fontified t 93 . 98) (nil fontified t 92 . 93) (nil fontified t 91 . 92) (nil fontified t 90 . 91) (90 . 136) nil ("," . -90) nil (90 . 91) nil ("'" . -114) ((marker . 133) . -1) ((marker) . -1) nil (")" . -115) ((marker . 133) . -1) ((marker*) . 1) ((marker) . -1) nil (" " . -116) ((marker . 133) . -1) nil (":" . -117) nil (">" . -118) nil ("<" . -90) nil (":" . -91) nil (" " . -92) nil ("u" . -93) nil ("r" . -94) nil ("i" . -95) nil ("_" . -96) nil ("f" . -97) nil ("	" . -98) nil (" " . -99) nil ("o" . -100) nil ("(" . -101) nil ("'" . -102) nil ("/" . -103) nil ("r" . -101) nil (98 . 100) (t 21514 . 27207) nil (129 . 130) (t 21514 . 27168) nil (127 . 128) nil (127 . 128) nil (127 . 128) nil (127 . 128) nil (101 . 103) nil ("/" . -101) nil (90 . 102) (t 21514 . 27131) nil (124 . 125) (t 21514 . 22195) nil (115 . 119) nil (">" . -115) nil ("/" . -116) nil (114 . 117) nil ("/" . -114) nil ("b" . -115) nil (114 . 116) nil (98 . 111) (t 21514 . 20389) nil (94 . 101) nil ("\\" . -94) nil (84 . 95) (t 21514 . 20382) nil (82 . 83) nil ("}" . -82) ((marker*) . 1) ((marker) . -1) nil ("{" . -83) nil (74 . 84) nil ("=" . -74) nil (">" . -75) nil (" " . -76) nil (74 . 77) nil ("=" . -74) nil ("-" . -75) nil (65 . 76) nil ("s" . -65) nil ("t" . -66) nil ("a" . -67) nil ("i" . -68) nil ("o" . -69) nil ("n" . -70) nil ("s" . -71) nil (66 . 72) nil (" " . -66) nil (" " . -67) (t 21514 . 20367) nil ("+" . -74) nil (70 . 75) nil (64 . 66) nil ("$" . -64) nil ("s" . -65) nil (57 . 66) nil (59 . 60) nil (57 . 59) nil (" [% END %]" . 57) nil ("
+" . 57) nil ("   [% station.station_cd %]    [% station.station_name %]<br/>" . 57) nil ("
+" . 57) nil (" [% FOR station IN stations %]  " . 57) (t 21514 . 20014) nil ("o" . -163) (t 21514 . 20011) ((marker . 279) . -1) nil (163 . 164) (t 21514 . 20009) nil ("
+" . -163) (t 21514 . 20008) nil (57 . 164) nil (56 . 57) nil (56 . 57) nil (" [% FOR station IN stations %]  
+   [% station.station_cd %]    [% station.station_name %]<br/>
+ [% END %]
+" . -63) (t 21514 . 19990) ((marker . 177) . -33) ((marker . 177) . -33) ((marker . 1701) . -60) ((marker . 183) . -33) ((marker . 183) . -61) nil (60 . 61) (t 21514 . 19989) nil (57 . 59) nil (56 . 57) nil (":}" . 167) (t 21514 . 19954) nil (165 . 166) (t 21514 . 19922) nil ("
+" . -56) ((marker . 1) . -1) ((marker . 1) . -1) nil ("
+" . 58) nil (" </form>" . 58) nil ("
+" . 58) nil ("   <input type=\"submit\" value=\"Sumit\">" . 58) ((marker . 150) . -38) nil ("
+" . 58) nil ("   <textarea name=\"text\" rows=\"3\"></textarea>" . 58) nil ("
+" . 58) nil ("<form method=\"post\" action=\"<: uri_for('memo/insert'):>\">" . 58) (t 21514 . 19803) nil (305 . 307) nil ("?" . -305) nil (302 . 306) nil ("," . -302) nil (302 . 303) (t 21514 . 19798) nil (295 . 299) nil ("c" . -295) nil ("d" . -296) nil (273 . 300) nil (272 . 273) nil (250 . 270) nil (250 . 251) nil (249 . 251) nil ("$" . -249) nil ("%" . -250) nil (245 . 251) (t 21514 . 19779) nil (253 . 256) nil ("}" . -253) ((marker*) . 1) ((marker) . -1) nil (246 . 254) nil (236 . 242) nil (216 . 236) nil ("F" . -216) nil ("o" . -217) nil ("r" . -218) nil (214 . 219) nil ("$" . -214) nil (213 . 215) nil ("{" . -213) nil (213 . 214) nil (" " . -213) nil (213 . 214) nil (213 . 215) nil (" " . -213) nil ("
+" . -214) nil (216 . 217) nil ("
+" . 217) nil ("
+" . 217) nil (":}" . 217) ((marker . 150) . -2) ((marker . 184) . -2) nil ("
+" . 217) nil ("
+" . 217) nil ("  <: $result :>  " . 217) ((marker . 1701) . -1) nil ("
+" . 217) nil ("
+" . 217) nil (": if $result {" . 217) nil (212 . 214) nil (211 . 212) nil (210 . 211) nil (209 . 211) (t 21514 . 16261) nil (244 . 245) (t 21514 . 16259) nil (245 . 246) nil (245 . 246) nil (244 . 245) (t 21514 . 16254) nil (164 . 165) nil (118 . 119) (t 21514 . 16239) nil (225 . 240) nil (224 . 225) nil ("
+" . 224) nil ("        </tr>" . 224) nil ("
+" . 224) nil ("                <th>価格</th>" . 224) nil ("
+" . 224) nil ("                <th>商品</th>" . 224) nil ("
+" . 224) nil ("                <th>画像</th>" . 224) nil ("
+" . 224) nil ("        <tr>" . 224) nil ("
+" . 224) nil ("<table border=\"1\">" . 224) nil ("
+" . 224) nil ("<h1>の名産品</h1>" . 224) nil (368 . 370) nil (": " . 368) (t 21514 . 16228) nil ("
+" . -371) nil ("
+" . -372) nil (":}" . 372) (t 21514 . 16224) nil (370 . 372) nil ("
+" . 370) nil ("</table>" . 370) nil ("
+" . 370) nil (":}" . 370) nil ("
+" . 370) nil ("        </tr>" . 370) nil ("
+" . 370) nil ("                <td><: $item.Price._value :>円</td>" . 370) nil ("
+" . 370) nil ("                <td><a href=\"<: $item.Url :>\"><: $item.Name :></a></td>" . 370) nil ("
+" . 370) nil ("                <td><a href=\"<: $item.Url :>\"><img src=\"<: $item.Image.Medium :>\" /></a></td>" . 370) nil ("
+" . 370) nil ("        <tr>" . 370) nil ("
+" . 370) nil ("for $result.values() -> $item {" . 370) (t 21511 . 28986) nil (662 . 663) nil ("\"" . -662) (t 21511 . 28985) nil (662 . 663) nil ("\"" . -662) nil (":" . -663) (t 21511 . 28983) nil (662 . 664) nil ("\"" . -662) nil (662 . 663) (t 21511 . 28973) nil (662 . 663) nil ("</html>" . 662) nil ("
+" . 662) nil ("</body>" . 662) (t 21511 . 28969) nil ("
+" . -207) nil ("
+" . -208) nil ("
+" . 209) nil (" </form>" . 209) nil ("
+" . 209) nil ("  <input type=\"submit\" value=\"Sumit\"> " . 209) nil ("
+" . 209) nil ("  <textarea name=\"text\" rows=\"3\"></textarea>" . 209) nil ("
+" . 209) nil (" <form method=\"post\" action=\"<: uri_for('yahoo/insert'):>\">" . 209) (t 21511 . 28964) nil ("
+" . -55) nil ("
+" . -56) nil (" <h2><: $latest_text :></h2>" . 57) nil ("
+" . 57) nil ("
+" . 57) nil (" <div id=\"map\"></div> " . 57) nil ("
+" . 57) nil ("
+" . 57) nil ("<body>" . 57) nil ("
+" . 57) nil ("</head>" . 57) nil ("
+" . 57) nil ("<head>" . 57) nil ("
+" . 57) nil ("<html>" . 57) (t 21511 . 28944) nil ("
+" . -70) (t 21511 . 28942) nil ("
+" . -71) nil (" </script>" . 72) nil (" <script type=\"text/javascript\" src=\"js/jquery-1.9.1.min.js\"></script>
+ <script type=\"text/javascript\" src=\"js/jquery.japan-map.min.js\"></script>
+ <script type=\"text/javascript\">
+$(function(){
+
+    var areas = [
+        {\"code\": 1 , \"name\":\"北海道地方\", \"color\":\"#ca93ea\", \"hoverColor\":\"#e0b1fb\", \"prefectures\":[1]},
+        {\"code\": 2 , \"name\":\"東北地方\",   \"color\":\"#a7a5ea\", \"hoverColor\":\"#d6d4fd\", \"prefectures\":[2,3,4,5,6,7]},
+        {\"code\": 3 , \"name\":\"関東地方\",   \"color\":\"#84b0f6\", \"hoverColor\":\"#c1d8fd\", \"prefectures\":[8,9,10,11,12,13,14]},
+        {\"code\": 4 , \"name\":\"北陸・甲信越地方\",   \"color\":\"#52d49c\", \"hoverColor\":\"#93ecc5\", \"prefectures\":[15,16,17,18,19,20]},
+        {\"code\": 4 , \"name\":\"東海地方\",   \"color\":\"#77e18e\", \"hoverColor\":\"#aff9bf\", \"prefectures\":[21,22,23,24]},
+        {\"code\": 6 , \"name\":\"近畿地方\",   \"color\":\"#f2db7b\", \"hoverColor\":\"#f6e8ac\", \"prefectures\":[25,26,27,28,29,30]},
+        {\"code\": 7 , \"name\":\"中国地方\",   \"color\":\"#f9ca6c\", \"hoverColor\":\"#ffe5b0\", \"prefectures\":[31,32,33,34,35]},
+        {\"code\": 8 , \"name\":\"四国地方\",   \"color\":\"#fbad8b\", \"hoverColor\":\"#ffd7c5\", \"prefectures\":[36,37,38,39]},
+        {\"code\": 9 , \"name\":\"九州地方\",   \"color\":\"#f7a6a6\", \"hoverColor\":\"#ffcece\", \"prefectures\":[40,41,42,43,44,45,46]},
+        {\"code\":10 , \"name\":\"沖縄地方\",   \"color\":\"#ea89c4\", \"hoverColor\":\"#fdcae9\", \"prefectures\":[47]}
+    ];
+
+    $(\"#map\").japanMap(
+        {
+            areas  : areas,
+            selection : \"prefecture\",
+            borderLineWidth: 0.25,
+            drawsBoxLine : false,
+            movesIslands : true,
+            showsAreaName : true,
+            width: 800,
+            font : \"MS Mincho\",
+            fontSize : 12,
+            fontColor : \"areaColor\",
+            fontShadowColor : \"black\",
+            onSelect:function(data){
+                alert(data.name);
+            },
+        }
+    );
+});" . -71) (t 21511 . 28880) nil (2756 . 2757) (t 21511 . 28875) nil (2755 . 2756) nil ("Y" . -2755) nil (2755 . 2756) nil ("+" . -2755) nil ("_" . -2756) nil (2755 . 2757) nil ("?" . -2755) nil (2755 . 2756) nil ("~" . -2755) nil (2755 . 2756) nil ("\"" . -2755) nil (2755 . 2756) nil ("|" . -2755) nil (2755 . 2756) nil ("\"" . -2755) nil (2755 . 2756) nil ("|" . -2755) nil ("+" . -2756) nil (2755 . 2757) nil (">" . -2755) (t 21511 . 28866) nil (2754 . 2756) nil ("|" . -2754) nil (2754 . 2755) nil ("+" . -2754) nil (2754 . 2755) nil ("?" . -2754) nil (2754 . 2755) nil ("<" . -2754) nil (2754 . 2755) nil (2753 . 2754) nil (2745 . 2753) nil (2744 . 2745) (t 21511 . 28841) nil (2742 . 2743) nil (" " . -2742) nil (":" . -2742) (t 21511 . 28834) nil (" " . -2305) (t 21511 . 28815) nil (":}" . 2764) nil ("p" . -2472) nil ("r" . -2473) nil ("e" . -2474) nil ("f" . -2475) nil ("_" . -2476) nil ("「" . -2325) nil ("<" . -2326) nil (":" . -2327) nil (" " . -2328) nil ("$" . -2329) nil ("p" . -2330) nil ("r" . -2331) nil ("e" . -2332) nil ("f" . -2333) nil (" " . -2334) nil (":" . -2335) nil (">" . -2336) nil ("」" . -2337) (t 21511 . 28778) nil (2311 . 2312) (t 21511 . 28776) nil ("$" . -2311) nil ("p" . -2312) nil ("r" . -2313) nil ("e" . -2314) nil ("f" . -2315) nil ("_" . -2316) (t 21511 . 28769) nil (2306 . 2769) nil (2305 . 2306) nil (2304 . 2305) nil (2302 . 2304) (t 21511 . 27461) nil (" " . -2212) nil ("
+" . -2293) (t 21511 . 27458) nil (2211 . 2294) nil ("
+" . -2211) nil (2212 . 2213) nil (" p" . 2212) nil (2212 . 2214) nil ("p  " . 2212) nil (2212 . 2215) nil (2211 . 2212) (t 21511 . 27447) nil (2212 . 2220) nil (2210 . 2211) nil (2210 . 2211) (t 21511 . 27444) nil (2205 . 2209) nil (" " . -2205) nil (";" . -2206) nil ("\\" . -2207) nil (2191 . 2208) nil ("m" . -2191) nil ("e" . -2192) nil (2181 . 2193) nil ("P" . -2181) nil (2180 . 2182) nil ("/" . -2180) nil (2178 . 2181) nil ("<" . -2178) nil ("<" . -2179) nil (2171 . 2180) nil ("c" . -2171) nil (2163 . 2172) nil ("+" . -2163) nil (2152 . 2164) nil (" " . -2152) nil (2150 . 2153) nil (2148 . 2150) (t 21511 . 23939) nil (1967 . 1968) (t 21511 . 23937) nil ("
+" . -1965) (t 21511 . 23932) nil ("
+" . -2148) (t 21511 . 23931) nil ("
+" . -2149) nil ("
+" . -2150) nil ("
+" . -2148) nil ("
+" . -2149) (t 21511 . 23631) nil (2151 . 2152) (t 21511 . 23630) nil ("  <li>[% station.lat %] : [% station.station_name %] - [% station.station_cd %]" . 2151) (t 21511 . 23629) nil ("[% END %]" . 2231) nil ("[% FOR station IN stations %]" . 2150) (t 21511 . 23512) nil (2269 . 2270) (t 21511 . 23185) nil ("[" . -2259) nil (2256 . 2260) nil (2236 . 2256) nil (" " . -2236) nil (2232 . 2237) nil ("-" . -2232) nil (" " . -2233) nil ("[" . -2234) nil (2232 . 2235) nil (" " . -2232) nil (2232 . 2233) nil ("[" . -2232) nil (2229 . 2233) nil (2209 . 2229) nil ("e" . -2209) nil (2207 . 2210) nil ("$" . -2207) nil ("%" . -2208) nil (2197 . 2209) nil ("i" . -2197) nil ("d" . -2198) nil (2189 . 2199) nil ("e" . -2189) nil ("n" . -2190) nil (2186 . 2191) nil ("{" . -2186) nil (2186 . 2187) nil (" " . -2186) nil ("<" . -2187) nil (2187 . 2188) nil ("," . -2187) nil (2185 . 2188) nil ("b" . -2185) nil (2180 . 2186) nil ("
+" . -2180) (t 21511 . 23142) nil (2190 . 2191) nil ("}" . -2190) nil (2183 . 2191) nil ("$" . -2183) nil ("%" . -2184) nil (2182 . 2185) nil (2180 . 2182) nil ("$" . -2178) nil (2168 . 2179) nil ("e" . -2168) nil (2157 . 2164) nil ("e" . -2157) nil ("n" . -2158) nil ("t" . -2159) nil ("r" . -2160) nil ("y" . -2161) nil ("n" . -2167) nil ("t" . -2168) nil (2157 . 2169) nil ("e" . -2157) nil ("n" . -2158) nil ("t" . -2159) nil ("y" . -2160) nil ("r" . -2161) nil (2151 . 2162) nil ("F" . -2151) nil ("O" . -2152) nil ("R" . -2153) nil (2151 . 2154) nil (2150 . 2152) nil (2148 . 2150) (t 21510 . 5543) nil (232 . 247) nil (231 . 233) nil ("?" . -231) nil (226 . 232) nil ("y" . -226) nil ("t" . -227) nil ("e" . -228) nil ("p" . -229) nil (225 . 230) nil ("t" . -225) nil (225 . 226) nil (" " . -225) nil ("t" . -226) nil ("e" . -227) nil ("x" . -228) nil ("t" . -229) nil (225 . 230) (t 21510 . 5528) nil (227 . 1893) nil ("   </scirpt>" . 227) (t 21510 . 5477) nil (227 . 239) nil ("   </scirpt>" . 227) (t 21510 . 5476) nil (229 . 239) nil (227 . 229) (t 21510 . 5474) nil (228 . 238) nil (" </scirpt>" . 228) (t 21510 . 5470) nil (228 . 238) nil (226 . 228) nil (217 . 226) nil (216 . 217) nil ("
+" . -207) nil ("
+" . -208) nil ("n" . -208) nil (208 . 209) nil ("$(function(){
+    //地域を設定
+    //{\"code\":[地域のコード], \"name\": [地域の名前], \"color\":[地域につける色], \"hoverColor\":[地域をマウスでホバーしたときの色], \"prefectures\":[地域に含まれる都道府県のコード]}
+    var areas = [
+        {\"code\": 1 , \"name\":\"北海道地方\", \"color\":\"#ca93ea\", \"hoverColor\":\"#e0b1fb\", \"prefectures\":[1]},
+        {\"code\": 2 , \"name\":\"東北地方\",   \"color\":\"#a7a5ea\", \"hoverColor\":\"#d6d4fd\", \"prefectures\":[2,3,4,5,6,7]},
+        {\"code\": 3 , \"name\":\"関東地方\",   \"color\":\"#84b0f6\", \"hoverColor\":\"#c1d8fd\", \"prefectures\":[8,9,10,11,12,13,14]},
+        {\"code\": 4 , \"name\":\"北陸・甲信越地方\",   \"color\":\"#52d49c\", \"hoverColor\":\"#93ecc5\", \"prefectures\":[15,16,17,18,19,20]},
+        {\"code\": 4 , \"name\":\"東海地方\",   \"color\":\"#77e18e\", \"hoverColor\":\"#aff9bf\", \"prefectures\":[21,22,23,24]},
+        {\"code\": 6 , \"name\":\"近畿地方\",   \"color\":\"#f2db7b\", \"hoverColor\":\"#f6e8ac\", \"prefectures\":[25,26,27,28,29,30]},
+        {\"code\": 7 , \"name\":\"中国地方\",   \"color\":\"#f9ca6c\", \"hoverColor\":\"#ffe5b0\", \"prefectures\":[31,32,33,34,35]},
+        {\"code\": 8 , \"name\":\"四国地方\",   \"color\":\"#fbad8b\", \"hoverColor\":\"#ffd7c5\", \"prefectures\":[36,37,38,39]},
+        {\"code\": 9 , \"name\":\"九州地方\",   \"color\":\"#f7a6a6\", \"hoverColor\":\"#ffcece\", \"prefectures\":[40,41,42,43,44,45,46]},
+        {\"code\":10 , \"name\":\"沖縄地方\",   \"color\":\"#ea89c4\", \"hoverColor\":\"#fdcae9\", \"prefectures\":[47]}
+    ];
+ 
+    $(\"#map\").japanMap(
+        {
+            areas  : areas, //上で設定したエリアの情報
+            selection : \"prefecture\", //選ぶことができる範囲(県→prefecture、エリア→area)
+            borderLineWidth: 0.25, //線の幅
+            drawsBoxLine : false, //canvasを線で囲む場合はtrue
+            movesIslands : true, //南西諸島を左上に移動させるときはtrue、移動させないときはfalse
+            showsAreaName : true, //エリア名を表示しない場合はfalse
+            width: 800, //canvasのwidth。別途heightも指定可。
+            backgroundColor: \"#ffffff\", //canvasの背景色
+            font : \"MS Mincho\", //地図に表示する文字のフォント
+            fontSize : 12, //地図に表示する文字のサイズ
+            fontColor : \"areaColor\", //地図に表示する文字の色。\"areaColor\"でエリアの色に合わせる
+            fontShadowColor : \"black\", //地図に表示する文字の影の色
+        }
+    );
+});" . -208) (t 21510 . 5430) nil (2231 . 2232) (t 21510 . 5420) nil (207 . 208) (t 21510 . 5368) nil (190 . 191) (t 21510 . 5274) nil ("
+" . -2238) (t 21510 . 5273) nil (" </script>" . 2239) nil (206 . 2229) nil ("
+" . -215) nil ("$(function(){
+    //地域を設定
+    //{\"code\":[地域のコード], \"name\": [地域の名前], \"color\":[地域につける色], \"hoverColor\":[地域をマウスでホバーしたときの色], \"prefectures\":[地域に含まれる都道府県のコード]}
+    var areas = [
+        {\"code\": 1 , \"name\":\"北海道地方\", \"color\":\"#ca93ea\", \"hoverColor\":\"#e0b1fb\", \"prefectures\":[1]},
+        {\"code\": 2 , \"name\":\"東北地方\",   \"color\":\"#a7a5ea\", \"hoverColor\":\"#d6d4fd\", \"prefectures\":[2,3,4,5,6,7]},
+        {\"code\": 3 , \"name\":\"関東地方\",   \"color\":\"#84b0f6\", \"hoverColor\":\"#c1d8fd\", \"prefectures\":[8,9,10,11,12,13,14]},
+        {\"code\": 4 , \"name\":\"北陸・甲信越地方\",   \"color\":\"#52d49c\", \"hoverColor\":\"#93ecc5\", \"prefectures\":[15,16,17,18,19,20]},
+        {\"code\": 4 , \"name\":\"東海地方\",   \"color\":\"#77e18e\", \"hoverColor\":\"#aff9bf\", \"prefectures\":[21,22,23,24]},
+        {\"code\": 6 , \"name\":\"近畿地方\",   \"color\":\"#f2db7b\", \"hoverColor\":\"#f6e8ac\", \"prefectures\":[25,26,27,28,29,30]},
+        {\"code\": 7 , \"name\":\"中国地方\",   \"color\":\"#f9ca6c\", \"hoverColor\":\"#ffe5b0\", \"prefectures\":[31,32,33,34,35]},
+        {\"code\": 8 , \"name\":\"四国地方\",   \"color\":\"#fbad8b\", \"hoverColor\":\"#ffd7c5\", \"prefectures\":[36,37,38,39]},
+        {\"code\": 9 , \"name\":\"九州地方\",   \"color\":\"#f7a6a6\", \"hoverColor\":\"#ffcece\", \"prefectures\":[40,41,42,43,44,45,46]},
+        {\"code\":10 , \"name\":\"沖縄地方\",   \"color\":\"#ea89c4\", \"hoverColor\":\"#fdcae9\", \"prefectures\":[47]}
+    ];
+ 
+    $(\"#map\").japanMap(
+        {
+            areas  : areas, //上で設定したエリアの情報
+            selection : \"prefecture\", //選ぶことができる範囲(県→prefecture、エリア→area)
+            borderLineWidth: 0.25, //線の幅
+            drawsBoxLine : false, //canvasを線で囲む場合はtrue
+            movesIslands : true, //南西諸島を左上に移動させるときはtrue、移動させないときはfalse
+            showsAreaName : true, //エリア名を表示しない場合はfalse
+            width: 800, //canvasのwidth。別途heightも指定可。
+            backgroundColor: \"#ffffff\", //canvasの背景色
+            font : \"MS Mincho\", //地図に表示する文字のフォント
+            fontSize : 12, //地図に表示する文字のサイズ
+            fontColor : \"areaColor\", //地図に表示する文字の色。\"areaColor\"でエリアの色に合わせる
+            fontShadowColor : \"black\", //地図に表示する文字の影の色
+        }
+    );
+});" . 216) nil ("
+" . -215) nil (" <script type>" . 216) nil (224 . 229) (t 21510 . 4648) nil (226 . 2249) nil (225 . 226) nil ("
+" . -225) nil ("
+" . -226) nil ("
+" . -227) (t 21510 . 4626) nil (226 . 228) (t 21510 . 4622) nil ("
+" . -226) (t 21510 . 4621) nil (233 . 238) nil ("i" . -233) nil (228 . 234) nil (225 . 228) nil (220 . 225) nil ("i" . -220) nil ("r" . -221) nil (219 . 222) nil ("a" . -219) nil (217 . 220) nil ("," . -217) nil (217 . 218) nil ("scirp" . 217) nil ("K" . -217) nil (217 . 218) nil ("K" . -217) nil (217 . 218) nil ("t" . -222) nil (">" . -223) nil (217 . 224) nil (216 . 217) nil (215 . 216) (t 21510 . 4604) nil (" " . -216) nil (" " . -64) (t 21510 . 4602) nil ("
+" . -63) (t 21510 . 4601) nil (" " . -57) (t 21510 . 4533) nil (236 . 237) (t 21510 . 4529) nil (240 . 256) nil (">" . -240) nil (236 . 241) nil (234 . 236) (t 21510 . 4518) nil (" " . -427) (t 21510 . 4515) nil (419 . 426) nil (418 . 419) (t 21510 . 4510) nil (228 . 234) (t 21510 . 4501) nil (199 . 218) nil ("-" . -199) nil (199 . 200) nil (179 . 199) nil (159 . 179) nil ("t" . -159) nil ("e" . -160) nil (159 . 161) nil (146 . 159) nil (" " . -146) nil (146 . 147) nil ("
+" . -146) nil ("
+" . -73) nil (" " . -74) (t 21510 . 4474) nil (145 . 146) nil ("?" . -145) nil (132 . 146) nil ("-" . -132) nil (128 . 133) nil ("-" . -128) nil (125 . 129) nil ("8" . -125) nil (115 . 126) nil ("?" . -115) nil (104 . 116) nil ("t" . -104) nil ("p" . -105) nil (102 . 106) nil ("i" . -102) nil ("r" . -103) nil ("p" . -104) nil ("t" . -105) nil ("\"" . -106) nil (90 . 107) nil ("/" . -90) nil ("t" . -91) nil ("e" . -92) nil (89 . 93) nil (" " . -89) nil ("=" . -90) nil (84 . 91) nil (">" . -84) nil (76 . 85) nil (75 . 76) nil (74 . 75) nil (75 . 76) nil ("p" . 75) nil (75 . 76) nil (74 . 76) (t 21510 . 4442) nil (75 . 76) (t 21510 . 4441) nil (75 . 82) nil (73 . 75) nil (66 . 73) nil (64 . 66) (t 21510 . 4434) nil (250 . 258) nil (248 . 250) (t 21510 . 4429) nil ("
+" . -65) nil (" " . -66) nil (" " . -67) nil ("
+" . -68) (t 21510 . 4427) nil (58 . 64) (t 21510 . 4412) nil ("H" . -58) nil (57 . 59) nil (56 . 57) nil (58 . 60) nil (57 . 59) nil (56 . 58) (t 21509 . 60595) nil (144 . 146) nil ("\"" . -142) (t 21509 . 57992) nil (221 . 226) nil (207 . 223) nil ("b" . -207) nil (206 . 208) nil (":" . -206) nil (205 . 207) nil ("s" . -205) nil ("u" . -206) nil ("b" . -207) nil ("m" . -208) nil ("i" . -209) nil ("t" . -210) nil (204 . 211) nil ("-" . -204) nil ("=" . -205) nil (191 . 206) (t 21509 . 57978) nil (189 . 190) nil (178 . 189) nil (":" . -178) nil (">" . -179) nil (179 . 180) nil ("L" . -179) nil (">" . -180) nil (177 . 181) nil ("'" . -177) nil (176 . 178) nil ("4" . -176) nil (168 . 177) nil ("'" . -168) nil (151 . 169) nil ("t" . -151) nil (150 . 152) nil ("x" . -150) nil (146 . 151) nil (146 . 147) (t 21509 . 57952) nil (147 . 155) nil (145 . 147) (t 21509 . 57946) nil (130 . 141) nil ("o" . -130) nil ("e" . -131) nil (128 . 132) nil ("/" . -128) nil ("m" . -129) nil ("o" . -130) nil (128 . 131) nil (130 . 131) nil ("\"" . -130) nil (130 . 131) nil (":" . -129) nil (129 . 130) nil (118 . 129) nil ("?" . -118) nil (":" . -119) nil (119 . 120) nil (" " . -119) nil ("u" . -120) nil (117 . 121) nil (101 . 118) nil ("-" . -101) nil ("\"" . -102) nil ("p" . -103) nil (94 . 104) nil (92 . 95) nil ("m" . -92) nil ("r" . -93) nil (88 . 94) nil (87 . 88) (t 21509 . 57907) nil (64 . 80) nil (65 . 70) nil ("?" . -65) nil (64 . 66) nil ("?" . -64) nil (61 . 65) nil ("1" . -61) nil (">" . -62) nil (59 . 63) nil (" " . -59) nil ("<" . -60) nil ("f" . -61) nil (58 . 62) nil (57 . 58) nil (56 . 57) nil (56 . 58) (t 21509 . 57887) nil (57 . 58) nil (57 . 58) nil (55 . 57) nil (43 . 55) nil ("o" . -43) nil ("c" . -44) nil (32 . 45) nil (30 . 32) nil (14 . 30) nil ("d" . -14) nil ("c" . -15) nil (" " . -16) nil (1 . 17) (t . -1)))

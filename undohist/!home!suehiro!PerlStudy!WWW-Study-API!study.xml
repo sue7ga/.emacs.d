@@ -1,0 +1,3 @@
+
+((digest . "4c5293b82fbc18df61e263a184341fbf") (undo-list (1 . 13267) (#("Can't return outside a subroutine at study.pl line 13.
+" 0 55 (fontified t)) . -1) (t 21397 . 51801) ((marker . 13267) . -3) ((marker*) . 52) ((marker) . -55) ((marker*) . 1) ((marker) . -55) ((marker*) . 55) ((marker) . -3) ((marker . 1) . -55) ((marker . 1) . -55) ((marker . 1) . -55) ((marker . 1) . -55) ((marker . 1) . -55) ((marker . 1) . -55) ((marker . 1) . -55) nil (1 . 56) (t . -1)))

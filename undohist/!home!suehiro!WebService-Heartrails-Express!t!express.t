@@ -1,0 +1,5 @@
+
+((digest . "444555bf390117c7c24e35927afa2f7e") (undo-list nil (77 . 85) nil (";" . -77) (t 21495 . 12071) nil (63 . 78) nil ("R" . -63) nil (49 . 64) nil (" " . -49) nil ("S" . -50) nil (46 . 51) nil ("E" . -46) nil (28 . 47) (t 21495 . 12059) nil (27 . 28) (t 21495 . 12005) nil ("
+" . -27) ((marker . 28) . -1) nil ("xo" . -28) nil (28 . 30) (t 21495 . 11996) nil (26 . 28) nil (17 . 26) nil ("w" . -17) nil ("r" . -18) nil ("a" . -19) nil (17 . 20) nil ("e" . -17) nil ("w" . -18) nil ("a" . -19) nil ("r" . -20) nil (13 . 21) nil (12 . 13) nil (10 . 12) nil (";" . -10) nil (9 . 11) nil ("d" . -9) nil ("t" . -10) nil (";" . -11) nil (9 . 12) nil ("t" . -9) nil ("c" . -10) nil (8 . 11) nil ("c" . -8) nil (1 . 9) nil ("use " . 1) nil ("
+" . 1) nil ("use strict;" . 1) nil (13 . 17) nil (12 . 13) nil (7 . 12) nil ("r" . -7) nil (1 . 8) nil ("use strict;" . 1) nil ("
+" . -12) nil ("u" . -13) nil (13 . 14) nil (12 . 13) nil (10 . 12) nil (";" . -10) nil ("t" . -11) nil (1 . 12) nil ("u" . -1) nil ("s" . -2) nil ("e" . -3) nil (" " . -4) nil (1 . 5) (t 21495 . 11962)))

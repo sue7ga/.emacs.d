@@ -1,0 +1,6 @@
+
+((digest . "e4499253600901c644d0a49da63fbf74") (undo-list nil (82 . 85) nil ("\"" . -82) nil (71 . 83) nil ("oksum,\"sum is defined\");" . 71) nil ("(" . -73) nil ("d" . -74) nil ("e" . -75) nil ("f" . -76) nil ("i" . -77) nil ("n" . -78) nil ("e" . -79) nil ("d" . -80) nil (" " . -81) nil ("&" . -82) nil ("M" . -83) nil ("y" . -84) nil (":" . -85) nil (":" . -86) nil ("L" . -87) nil ("i" . -88) nil ("s" . -89) nil ("t" . -90) nil (":" . -91) nil (":" . -92) nil ("U" . -93) nil ("t" . -94) nil ("i" . -95) nil ("l" . -96) nil (":" . -97) nil (":" . -98) nil (124 . 125) (t 21251 . 20469) nil (111 . 123) nil ("defined\");
+
+" . -111) nil (122 . 124) nil (112 . 118) nil ("e" . -112) nil (111 . 113) nil ("e" . -111) nil (107 . 112) nil ("e" . -107) nil (104 . 108) nil (97 . 102) nil (82 . 102) nil ("^" . -82) nil ("&" . -83) nil (82 . 84) nil ("$" . -82) nil ("%" . -83) nil (74 . 84) nil ("d" . -74) nil ("e" . -75) nil ("f" . -76) nil ("i" . -77) nil ("n" . -78) nil ("e" . -79) nil ("d" . -80) nil (" " . -81) nil (74 . 82) nil (71 . 73) nil ("i" . -71) nil ("s" . -72) nil ("d" . -74) nil ("e" . -75) nil ("f" . -76) nil (74 . 77) nil ("o" . -74) nil ("k" . -75) nil (71 . 76) nil (70 . 72) nil ("
+" . -29) nil ("
+" . -30) nil ("i" . -30) nil ("s" . -31) nil (30 . 32) nil (29 . 31) nil (1 . 86) (t 21251 . 20307)))

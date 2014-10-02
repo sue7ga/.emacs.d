@@ -1,0 +1,5 @@
+
+((digest . "68b329da9893e34099c7d8ad5cb9c940") (undo-list nil ("0" . -1) (t 21405 . 47605) nil (2 . 3) nil (1 . 2) (t 21405 . 47495) nil ("/tmp/ccFzqYbD.o: In function `main':
+furiko.c:(.text+0x360): undefined reference to `sin'
+collect2: error: ld returned 1 exit status
+" . 1) (t 21405 . 47481) nil (1 . 134) (t 21405 . 47467)))

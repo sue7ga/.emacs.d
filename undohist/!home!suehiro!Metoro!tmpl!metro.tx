@@ -1,0 +1,52 @@
+
+((digest . "19e0b5d121c0e68040361ba1b1f19ac8") (undo-list nil ("
+" . -327) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker) . -1) ((marker) . -1) ((marker . 327) . -1) nil ("
+" . -328) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker) . -1) ((marker) . -1) nil ("
+" . -329) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker) . -1) ((marker) . -1) nil ("
+" . 330) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker . 327) . -1) ((marker) . -1) ((marker) . -1) ((marker . 327) . -1) ((marker) . -1) nil ("
+" . 330) ((marker . 327) . -1) ((marker . 327) . -1) ((marker) . -1) ((marker) . -1) ((marker) . -1) nil ("
+" . 330) ((marker) . -1) ((marker) . -1) ((marker) . -1) nil ("</html>" . 330) ((marker) . -7) nil ("
+" . 330) ((marker) . -1) ((marker) . -1) ((marker) . -1) nil ("  </body>" . 330) ((marker) . -9) nil ("
+" . -56) ((marker . 56) . -1) ((marker . 56) . -1) ((marker . 56) . -1) ((marker) . -1) ((marker) . -1) nil ("
+" . -57) ((marker) . -1) ((marker) . -1) nil ("<!DOCTYPE html \"-//W3C//DTD XHTML 1.0 Strict//EN\" 
+  \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\">
+  <head>
+    <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"/>
+    <title>サンプル：東京メトロ</title>
+    <script src=\"http://maps.google.com/maps?file=api&v=2&key=(key)&sensor=false\"
+            type=\"text/javascript\" charset=\"utf-8\"></script>
+    <script src=\"../static/js/code2_1.js\" type=\"text/javascript\"></script>
+  </head>
+  <body onload=\"initialize()\" onunload=\"GUnload()\">
+    <div>
+      <div id=\"rosen\" style=\"width:120px;float:left;\"></div>
+      <div id=\"eki\" style=\"width:120px;float:left;\"></div>
+    </div>
+    <div id=\"map\" style=\"width:500px; height:400px;clear:both;\"></div>
+" . -57) (t 21539 . 64909) ((marker . 56) . -486) ((marker . 302) . -384) ((marker . 302) . -384) ((marker) . -190) ((marker) . -190) ((marker . 319) . -199) ((marker . 319) . -199) ((marker . 318) . -272) ((marker . 318) . -272) ((marker . 312) . -302) ((marker . 312) . -302) ((marker) . -653) ((marker) . -653) ((marker) . -794) ((marker) . -794) ((marker . 328) . -712) ((marker . 328) . -712) ((marker) . -723) ((marker) . -723) ((marker) . -106) ((marker) . -106) ((marker) . -51) ((marker) . -51) ((marker . 153) . -592) ((marker . 153) . -592) ((marker . 186) . -582) ((marker . 186) . -582) ((marker . 195) . -530) ((marker . 195) . -530) ((marker . 231) . -520) ((marker . 231) . -520) ((marker . 265) . -445) ((marker . 265) . -445) nil (853 . 1124) nil (852 . 853) nil (850 . 853) nil ("   <:$title:></br></br>
+
+<table>
+ <tr>
+   <td>出発</td>
+   <td>到着</td>
+   <td>所要時間（分）</td>
+ </tr>
+   : for $travelTime -> $travel{
+    <tr>
+     <td><:$travel.from:><br/></td>
+     <td><:$travel.to:><br/></td>
+     <td><:$travel.time:>分<br/></td>
+    </tr>
+   :}
+
+</table>
+" . -871) (t 21539 . 64782) ((marker . 327) . -138) ((marker . 327) . -138) ((marker . 327) . -138) ((marker . 327) . -138) ((marker . 327) . -174) ((marker . 327) . -208) ((marker . 327) . -39) ((marker . 327) . -54) ((marker . 327) . -38) ((marker . 327) . -69) ((marker . 153) . -33) ((marker . 327) . -69) nil (522 . 528) (t 21539 . 64773) nil (520 . 522) (t 21539 . 64759) nil ("
+" . -860) nil ("
+" . -861) (t 21539 . 64757) nil (57 . 860) (t 21539 . 64748) nil (57 . 59) (t 21539 . 64745) nil (55 . 58) (t 21539 . 62477) nil (139 . 140) nil (137 . 139) (t 21539 . 62475) nil (133 . 137) nil (118 . 120) nil ("終" . -118) nil ("着" . -119) nil ("駅" . -120) nil (103 . 105) nil ("s" . -103) nil ("h" . -104) nil ("u" . -105) nil ("p" . -106) nil (103 . 107) nil ("始" . -103) nil ("発" . -104) nil ("駅" . -105) nil (119 . 122) nil (103 . 106) (t 21539 . 62434) nil (122 . 134) nil (109 . 121) nil (108 . 109) nil (96 . 108) nil ("   <td></td>" . 96) nil (96 . 108) (t 21539 . 62420) nil (271 . 279) (t 21539 . 62408) nil (249 . 253) nil ("t" . -249) nil ("d" . -250) nil (">" . -251) nil (248 . 252) (t 21539 . 62405) nil (222 . 226) nil ("," . -222) nil ("t" . -223) nil ("d" . -224) nil (222 . 225) nil ("T" . -222) nil ("i" . -223) nil ("m" . -224) nil ("e" . -225) nil (":" . -226) nil (" " . -227) (t 21539 . 62400) nil (213 . 216) nil ("t" . -213) nil (211 . 214) nil (188 . 192) nil ("T" . -188) nil ("o" . -189) nil (":" . -190) nil (" " . -191) nil (177 . 182) (t 21539 . 62392) nil (152 . 156) nil ("F" . -152) nil ("r" . -153) nil ("o" . -154) nil ("m" . -155) nil (":" . -156) nil (" " . -157) (t 21539 . 62381) nil (249 . 252) nil ("b" . -249) nil ("r" . -250) nil (243 . 251) nil (242 . 243) nil (144 . 146) nil ("r" . -144) nil (138 . 145) nil (137 . 138) nil ("
+" . -104) nil (98 . 104) nil (95 . 98) (t 21539 . 62363) nil (90 . 95) nil (90 . 91) (t 21539 . 62360) nil (88 . 89) nil (" " . -88) nil ("c" . -89) nil ("l" . -90) nil ("a" . -91) nil ("s" . -92) nil ("s" . -93) nil (82 . 94) nil (219 . 221) nil (81 . 83) (t 21539 . 58912) nil (166 . 169) nil ("." . -166) nil ("f" . -167) nil ("r" . -168) nil ("o" . -169) nil ("m" . -170) (t 21539 . 58679) nil (206 . 207) (t 21539 . 57715) nil (74 . 80) nil ("t" . -74) nil (">" . -75) nil (70 . 76) (t 21539 . 57687) nil (196 . 201) nil (" " . -196) (t 21539 . 57684) nil (190 . 194) nil ("f" . -190) nil ("r" . -191) nil ("o" . -192) nil ("m" . -193) nil (174 . 179) nil (143 . 146) nil (110 . 115) nil (":" . -110) nil (110 . 111) nil (":" . -110) nil ("f" . -111) nil ("r" . -112) nil (110 . 113) nil (155 . 160) nil (" " . -155) nil (127 . 132) nil (" " . -127) nil (153 . 176) nil (152 . 153) nil (129 . 152) nil (128 . 129) nil (105 . 128) nil ("      <:$travel.from:> " . 105) ((marker . 327) . -15) nil (120 . 125) (t 21539 . 57041) nil (113 . 120) nil ("t" . -113) nil ("o" . -114) nil (113 . 115) nil ("
+" . 105) ((marker . 56) . -1) nil ("      <::> " . 105) nil ("
+" . 105) ((marker . 327) . -1) nil ("      <:$travel.:> " . 105) nil ("o" . -121) nil ("d" . -122) nil (121 . 123) (t 21539 . 56821) nil (120 . 121) nil (">" . -120) nil (113 . 121) nil ("
+" . -140) nil (129 . 140) nil (128 . 129) nil (117 . 128) nil (116 . 117) nil (105 . 116) nil ("      <::> " . 105) nil (113 . 114) nil (105 . 114) nil (106 . 107) (t 21539 . 56806) nil (93 . 96) nil ("=" . -93) nil ("-" . -94) nil (93 . 95) nil (" " . -93) nil (93 . 94) nil (81 . 82) nil ("#" . -81) nil ("$" . -82) nil (81 . 83) nil (87 . 91) nil ("t" . -87) nil (81 . 88) nil ("t" . -81) nil ("r" . -82) nil ("a" . -83) nil ("m" . -84) nil (81 . 85) (t 21539 . 56791) nil (82 . 89) nil ("$" . -82) nil (82 . 83) (t 21539 . 56786) nil (81 . 83) (t 21539 . 56784) nil (84 . 89) nil (83 . 84) nil (82 . 83) nil (81 . 82) nil (77 . 81) nil ("o" . -77) nil ("f" . -78) nil ("r" . -79) nil (76 . 80) nil ("f" . -76) nil ("o" . -77) nil ("r" . -78) nil (76 . 79) nil (";" . -76) nil (72 . 77) nil (70 . 72) (t 21539 . 55228) nil (57 . 59) (t 21539 . 55226) nil (66 . 68) nil (">" . -66) nil (60 . 67) nil ("T" . -60) nil (58 . 61) (t 21539 . 55220) nil (" :}     " . 58) nil ("
+" . 58) nil ("  <li><a href=\"metro/<: $title :>\"><:$title:></a></li>   " . 58) nil ("
+" . 58) nil (":for $titles -> $title{" . 58) (t 21539 . 55217) nil (1 . 154) (t 21539 . 55207)))

@@ -1,0 +1,18 @@
+
+((digest . "d41d8cd98f00b204e9800998ecf8427e") (undo-list nil ("my $kosoku" . 1) nil ("
+" . 1) nil ("
+" . 1) nil ("
+" . 1) nil ("use Test::More;" . 1) nil ("
+" . 1) nil ("use warnings;" . 1) nil ("
+" . 1) nil ("use strict;" . 1) nil ("-" . -55) nil (45 . 56) nil (42 . 45) (t 21527 . 31007) nil (27 . 42) nil (26 . 27) nil (13 . 26) nil (12 . 13) nil (3 . 12) nil ("d" . -3) nil (" " . -4) nil (1 . 5) (t . -1) nil ("done_testing;" . 1) nil ("
+" . 1) nil ("
+" . 1) nil ("print Dumper $kosoku->get_subsections_by_routenumber(2);" . 1) nil ("
+" . 1) nil ("use Data::Dumper;" . 1) nil ("
+" . 1) nil ("
+" . 1) nil ("my $kosoku = WWW::Kosoku::API->new(f => '渋谷',t => '浜松',c => '普通車');" . 1) nil ("
+" . 1) nil ("
+" . 1) nil ("use WWW::Kosoku::API;" . 1) nil ("
+" . 1) nil ("use utf8;" . 1) nil ("
+" . 1) nil ("use Test::More;" . 1) nil ("
+" . 1) nil ("use warnings;" . 1) nil ("
+" . 1) nil ("use strict;" . 1) (t 21524 . 55868) nil (216 . 217) nil ("1" . -216) (t 21524 . 55831) nil (155 . 162) nil ("u" . -155) nil (145 . 156) nil (144 . 145) (t 21524 . 55805) nil ("o" . -201) nil (201 . 202) (t 21524 . 55801) nil (185 . 201) nil (165 . 185) nil ("g" . -165) nil ("e" . -166) nil (159 . 167) nil ("g" . -159) nil ("e" . -160) nil (145 . 161) nil ("is($kosoku->{c},'普通車');" . 145) (t 21523 . 37663) nil (182 . 183) nil ("(" . -182) nil (175 . 183) nil ("t" . -175) nil ("e" . -176) nil ("s" . -177) nil ("t" . -178) nil ("g" . -179) nil ("i" . -180) nil ("n" . -181) nil (170 . 182) nil (169 . 170) nil ("d" . -169) nil ("o" . -170) nil ("p" . -171) nil ("n" . -172) nil ("e" . -173) nil (169 . 174) nil (168 . 169) (t 21523 . 37619) nil (162 . 165) nil (160 . 163) nil (158 . 159) nil ("d" . -158) nil (158 . 159) nil (157 . 159) nil ("g" . -157) nil ("e" . -158) nil ("t" . -159) nil (155 . 160) nil ("-" . -155) nil (148 . 156) nil (145 . 150) nil (143 . 145) nil (76 . 143) nil (75 . 76) nil (1 . 75) nil ("u" . -1) nil ("s" . -2) nil ("e" . -3) nil (" " . -4) nil (1 . 5) nil ("3" . -1) nil (1 . 2) (t . -1)))
